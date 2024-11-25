@@ -1,3 +1,3 @@
 # Hi I'm Humza!
 
-<hr>
+[![Humza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamsycodes)](https://github.com/anuraghazra/github-readme-stats)
